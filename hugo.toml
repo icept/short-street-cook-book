@@ -1,6 +1,7 @@
 baseURL = 'https://icept.github.io/short-street-cook-book/'
 title = 'Short Street Cook Book'
 theme = 'hugo-book'
+canonifyURLs = true
 disableKinds = ['taxonomy', 'term']
 
 [languages.en]
