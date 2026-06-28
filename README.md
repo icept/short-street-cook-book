@@ -17,6 +17,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 ### Meat & Poultry
 
 - [Cognac & Cara Cara Roast Chicken](recipes/04-cognac-cara-cara-roast-chicken.md)
+- [Beef Short Rib Massaman](recipes/12-beef-massaman-curry.md)
 
 ### Drinks
 
