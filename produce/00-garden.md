@@ -22,6 +22,9 @@ The cookbook is built around what we grow at home. When generating recipes, lean
 ### Olives
 - Home-grown and home-cured in brine; harvested April–May, cured over the following weeks
 
+### Nuts
+- Macadamia — nuts fall March–August, main flush in autumn; husk and dry before cracking
+
 ### Occasional
 - Oyster mushrooms — when we have a flush
 
