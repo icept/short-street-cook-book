@@ -17,8 +17,8 @@ that part.
 - 2 tbsp olive oil
 - 4 cloves garlic, finely sliced
 - 1.5 litres beef stock
-- 185 ml dry white wine or dry vermouth
-- 125 ml port (or brandy/cognac)
+- 185 ml dry white wine, dry vermouth, port, or cognac (for the deglaze)
+- 125 ml port or cognac (to finish)
 - 4–5 sprigs thyme
 - 1–2 bay leaves
 - ½ tsp nutmeg
@@ -34,8 +34,8 @@ that part.
    a further 15 minutes, stirring regularly, until the onions are a deep golden
    brown. Don't rush this — the colour is the flavour.
 4. Add the garlic, thyme, bay, and nutmeg. Stir and cook for 2 minutes.
-5. Deglaze with the white wine or vermouth, scraping up anything stuck to the
-   base. Let it reduce by half.
+5. Deglaze with your chosen liquid — white wine, vermouth, port, or cognac —
+   scraping up anything stuck to the base. Let it reduce by half.
 6. Pour in the stock, bring to a gentle simmer, and cook uncovered for
    45 minutes.
 7. Stir through the port or cognac, taste, and adjust the seasoning. Fish out
