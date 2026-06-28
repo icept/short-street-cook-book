@@ -1,0 +1,17 @@
+{{- define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- if or .Params.serves .Params.time }}
+    <div class="recipe-meta">
+      {{- with .Params.serves }}<span>Serves {{ . }}</span>{{- end }}
+      {{- with .Params.time }}<span>{{ . }}</span>{{- end }}
+    </div>
+    {{- end }}
+  </header>
+  <div class="post-content">
+    {{- .Content }}
+  </div>
+</article>
+{{- end }}

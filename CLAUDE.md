@@ -7,8 +7,11 @@ write as you would explain a dish to a friend.
 ## Repository layout
 
 ```
-recipes/     one file per recipe, named NN-slug.md
-produce/     one file per home-grown or foraged ingredient, named NN-slug.md
+content/recipes/     one file per recipe, named NN-slug.md
+content/produce/     one file per home-grown or foraged ingredient, named NN-slug.md
+.github/workflows/   hugo.yml — deploys to GitHub Pages on push to main
+layouts/             custom Hugo templates (recipe single page, extend_head)
+hugo.toml            Hugo site config (theme, menus, taxonomies)
 ```
 
 ## Recipe file format
@@ -98,8 +101,8 @@ Preserving, storage, variety notes.
 ## Keeping the index up to date
 
 `README.md` is the cookbook's contents page. Whenever you add, rename, or
-remove a file in `recipes/` or `produce/`, update README.md in the same
-commit:
+remove a file in `content/recipes/` or `content/produce/`, update README.md
+in the same commit:
 
 - Add a link under the correct category heading in **Recipes**, using the
   recipe's `title` front matter field as the link text.

@@ -1,0 +1,31 @@
+baseURL = 'https://icept.github.io/short-street-cook-book/'
+languageCode = 'en-au'
+title = 'Short Street Cook Book'
+theme = 'PaperMod'
+
+[taxonomies]
+  category = 'categories'
+
+[params]
+  description = "A household recipe collection from the Short Street kitchen, Perth, WA."
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  hideMeta = false
+
+  [params.homeInfoParams]
+    Title = "Short Street Cook Book"
+    Content = "A household recipe collection from the Short Street kitchen, Perth, WA."
+
+[[menus.main]]
+  identifier = "recipes"
+  name = "Recipes"
+  url = "/recipes/"
+  weight = 1
+
+[[menus.main]]
+  identifier = "produce"
+  name = "House Produce"
+  url = "/produce/"
+  weight = 2
