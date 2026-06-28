@@ -32,6 +32,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [The Japanese Cocktail](/recipes/drinks/09-japanese-cocktail/)
 - [Cara Cara Mac Sour](/recipes/drinks/13-cara-cara-mac-sour/)
 - [White Grapefruit Paloma](/recipes/drinks/17-white-grapefruit-paloma/)
+- [The Mac Mai Tai](/recipes/drinks/19-mac-mai-tai/)
 
 ### Syrups & Cordials
 
