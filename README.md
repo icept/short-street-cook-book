@@ -6,7 +6,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ### Seafood
 
-- [Tuna or Salmon Tartare with Avocado](recipes/11-tuna-salmon-tartare.md)
+- [Ginger Sesame Tuna Tartare](recipes/11-tuna-salmon-tartare.md)
 
 ### Sauces & Condiments
 
