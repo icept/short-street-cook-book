@@ -2,7 +2,7 @@
 title: Our Garden
 name: Our Garden
 type: reference
-location: Joondanna, City of Stirling, Perth WA
+location: Perth, WA
 ---
 
 The cookbook is built around what we grow at home. When generating recipes, lean on these ingredients where appropriate and in season.
