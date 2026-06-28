@@ -4,6 +4,10 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ## Recipes
 
+### Sauces & Condiments
+
+- [Malaysian Sambal](recipes/10-malaysian-sambal.md)
+
 ### Pasta & Grains
 
 ### Meat & Poultry
