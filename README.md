@@ -19,6 +19,10 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [Cognac & Cara Cara Roast Chicken](recipes/04-cognac-cara-cara-roast-chicken.md)
 - [Beef Short Rib Massaman](recipes/12-beef-massaman-curry.md)
 
+### Soups
+
+- [Boxing Day Bisque](recipes/05-boxing-day-bisque.md)
+
 ### Drinks
 
 - [Winter Cara Cara Botanical](recipes/03-winter-cara-cara-botanical.md)
