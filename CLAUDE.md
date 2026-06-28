@@ -109,6 +109,18 @@ commit:
 
 Never let the index drift out of sync with the files on disk.
 
+## Related files
+
+`produce/00-garden.md` is the live reference for everything we grow at home
+and where to source ingredients locally. Consult it when writing recipes or
+produce notes — it is the source of truth for garden contents, seasonality,
+and Perth suppliers.
+
+`COOKBOOK-PROJECT.md` holds the instructions loaded into the claude.ai Project
+for AI-assisted recipe generation. Whenever the recipe or produce note format
+changes, update both this file and `COOKBOOK-PROJECT.md` in the same commit
+so the two stay in sync.
+
 ## Style guide
 
 - British spelling: *flavour*, *colour*, *courgette*, *aubergine*, *coriander*
