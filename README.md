@@ -14,6 +14,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ## House Produce
 
+- [Our Garden](produce/00-garden.md)
 - [Citrus](produce/01-citrus.md)
 - [Herbs](produce/02-herbs.md)
 - [Olives](produce/03-olives.md)

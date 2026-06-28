@@ -1,20 +1,21 @@
 ---
 name: Citrus
 type: Home-grown
-varieties: lemon, orange, mandarin
+varieties: lemon, Cara Cara orange, white grapefruit
 ---
 
 The lemon tree earns its place in the garden year-round, but the whole citrus
-corner comes into its own in the cooler months. We have a lemon, a navel
-orange, and a mandarin, and between them they cover most of what the kitchen
-needs from May through to September. The lemons are the workhorses.
+corner comes into its own in the cooler months. We have a lemon, a Cara Cara
+navel orange, and a white grapefruit, and between them they cover most of what
+the kitchen needs from June through to October. The lemons are the workhorses.
 
 ## In season
 
-Lemons crop almost year-round but sweeten noticeably in winter. Oranges and
-mandarins peak roughly May–September — the mandarins come first, easy to peel
-and gone fast; the oranges follow and last well on the tree into early spring
-if you leave them.
+Lemons crop almost year-round but sweeten noticeably in winter. The Cara Cara
+orange peaks roughly June–September — pink-fleshed, sweet, and lower in acid
+than a standard navel, it's as good to eat as it is to cook with. The white
+grapefruit follows through to October; bigger and more bitter, it wants
+something to balance it — salt, honey, or a hit of something fatty.
 
 ## Pairs with
 
@@ -45,5 +46,6 @@ three to four weeks, keep in the fridge for months. Use the rind, not the pulp.
 **Freeze juice** in ice-cube trays (roughly 2 tbsp per cube) so a glut doesn't
 go to waste.
 
-**Candied peel:** use peel from eating oranges or mandarins; double-blanch to
-remove bitterness, then simmer in a light sugar syrup.
+**Candied peel:** Cara Cara peel is excellent here — double-blanch to remove
+bitterness, then simmer in a light sugar syrup. Grapefruit peel works too but
+needs an extra blanch.
