@@ -31,8 +31,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Clone PaperMod theme
-        run: git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+      - name: Clone Hugo Book theme
+        run: git clone https://github.com/alex-shpak/hugo-book themes/hugo-book --depth=1
 
       - name: Setup Pages
         id: pages
