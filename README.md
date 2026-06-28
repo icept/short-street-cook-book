@@ -12,6 +12,10 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 - [Roast Chicken with Herbs and Lemon](recipes/01-roast-chicken-with-herbs.md)
 
+### Drinks
+
+- [Winter Cara Cara Botanical](recipes/03-winter-cara-cara-botanical.md)
+
 ## House Produce
 
 - [Our Garden](produce/00-garden.md)
