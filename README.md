@@ -11,6 +11,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 ### Meat & Poultry
 
 - [Roast Chicken with Herbs and Lemon](recipes/01-roast-chicken-with-herbs.md)
+- [Cognac & Cara Cara Roast Chicken](recipes/04-cognac-cara-cara-roast-chicken.md)
 
 ### Drinks
 
