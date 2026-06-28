@@ -14,6 +14,7 @@ The cookbook is built around what we grow at home. When generating recipes, lean
 - Cara Cara navel orange — pink-fleshed, sweet and low in acid; peaks in winter (roughly June–September)
 - White grapefruit — winter into spring (roughly July–October)
 - Purple figs — main crop late summer to autumn (roughly February–April)
+- Mango — December to February, main flush January
 
 ### Herbs
 - Hardy, year-round: thyme, sage, rosemary, oregano

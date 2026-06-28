@@ -43,3 +43,4 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [Herbs](/produce/02-herbs/)
 - [Olives](/produce/03-olives/)
 - [Macadamia Nuts](/produce/04-macadamia-nuts/)
+- [Mango](/produce/05-mango/)
