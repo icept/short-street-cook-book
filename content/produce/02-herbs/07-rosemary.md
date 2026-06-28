@@ -33,6 +33,10 @@ and encourage fresh growth.
 - Widely available in potted herb sections at supermarkets and nurseries;
   starter plants establish quickly
 
+## Used in
+
+- [Winter Cara Cara Botanical](/recipes/drinks/03-winter-cara-cara-botanical/) — sprig in the shaker and as garnish
+
 ## Notes
 
 **Infused oil:** submerge sprigs in good olive oil and leave for several

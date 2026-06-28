@@ -32,6 +32,13 @@ gives juice freely.
   in season; less common than navels so ask growers directly
 - Specialty fruit shops sometimes carry them June–August
 
+## Used in
+
+- [Winter Cara Cara Botanical](/recipes/drinks/03-winter-cara-cara-botanical/) — the juice
+- [Cognac & Cara Cara Roast Chicken](/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken/) — sliced alongside the bird
+- [Cara Cara Mac Sour](/recipes/drinks/13-cara-cara-mac-sour/) — the juice
+- [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — optional peel to finish
+
 ## Notes
 
 **Candied peel:** double-blanch the peel to remove bitterness, then simmer in

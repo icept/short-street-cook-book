@@ -34,6 +34,12 @@ Harvest sprigs freely; cutting the plant back prevents it going woody.
 - Lemon thyme is worth seeking out as a separate plant — it's a different
   cultivar and the lemon note is real, not incidental
 
+## Used in
+
+- [Cognac & Cara Cara Roast Chicken](/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken/) — in the marinade and the roasting tin
+- [Boxing Day Bisque](/recipes/soups/05-boxing-day-bisque/) — in the stock
+- [French Onion Soup](/recipes/soups/14-french-onion-soup/) — simmered with the onions
+
 ## Notes
 
 **Strip the leaves:** hold the sprig at the top and run your fingers down

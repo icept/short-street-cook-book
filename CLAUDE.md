@@ -93,10 +93,16 @@ Perth / WA seasonality.
 
 - where to source it and its partners around Perth
 
+## Used in
+
+- [Recipe Title](/recipes/category/slug/) — brief note on how it is used
+
 ## Notes
 
 Preserving, storage, variety notes.
 ```
+
+The `## Used in` section lists every recipe in the cookbook that calls for this ingredient, with a short clause explaining the role. Omit it if no current recipes use the ingredient — add it when the first recipe is added. Keep it in sync: whenever a new recipe is added that uses a house ingredient, add a link here in the same commit.
 
 ## Keeping the index up to date
 

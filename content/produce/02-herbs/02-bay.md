@@ -30,6 +30,13 @@ aromatic in the warmer months when the tree is actively growing.
 - Fresh bay rarely sold commercially — dried is the standard; use it
   in double the quantity if substituting for fresh
 
+## Used in
+
+- [Boxing Day Bisque](/recipes/soups/05-boxing-day-bisque/) — in the stock
+- [French Onion Soup](/recipes/soups/14-french-onion-soup/) — simmered with the onions
+- [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — optional, in the finishing jar
+- [Preserved Lemons](/recipes/preserves/16-preserved-lemons/) — optional aromatic in the jar
+
 ## Notes
 
 **Fresh vs dried:** use fresh where the bay is a background note (a braise,

@@ -38,6 +38,10 @@ olives are ready to eat roughly six to eight weeks after harvest.
 - If a batch fails or the tree has a bad year, good table olives at Kakulas
   too — worth knowing your fallback
 
+## Used in
+
+- [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — the full cure process
+
 ## Notes
 
 **Cure timing:** harvest in April–May; the cured olives are ready to eat five

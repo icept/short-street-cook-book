@@ -35,6 +35,10 @@ leave them to dry for a week or two before cracking.
   is reliable
 - Local WA macadamias occasionally at **Stirling Farmers Market** (Sundays)
 
+## Used in
+
+- [Rich Toasted Macadamia Orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/) — the main ingredient
+
 ## Notes
 
 **Cracking:** macadamia shells are among the hardest of any nut — use a

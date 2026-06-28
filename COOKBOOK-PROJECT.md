@@ -52,6 +52,10 @@ Perth / WA seasonality.
 ## Where to get it locally
 - sourcing
 
+## Used in
+- [Recipe Title](/recipes/category/slug/) — brief note on how it is used
+(Omit if no current recipes use this ingredient. Add a link here whenever a new recipe uses it.)
+
 ## Notes
 Storage, preserving, varieties, tips.
 
