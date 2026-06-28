@@ -17,6 +17,14 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 - [Winter Cara Cara Botanical](recipes/03-winter-cara-cara-botanical.md)
 
+### Macadamia Orgeat & Cocktails
+
+- [Rich Toasted Macadamia Orgeat](recipes/05-rich-toasted-macadamia-orgeat.md)
+- [The Macadamia Old Fashioned](recipes/06-macadamia-old-fashioned.md)
+- [The Macadamia Espresso Martini](recipes/07-macadamia-espresso-martini.md)
+- [The Macadamia Mai Tai](recipes/08-macadamia-mai-tai.md)
+- [The Japanese Cocktail](recipes/09-japanese-cocktail.md)
+
 ## House Produce
 
 - [Our Garden](produce/00-garden.md)
