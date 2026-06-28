@@ -1,12 +1,15 @@
 baseURL = 'https://icept.github.io/short-street-cook-book/'
-languageCode = 'en-au'
 title = 'Short Street Cook Book'
 theme = 'hugo-book'
 disableKinds = ['taxonomy', 'term']
+
+[languages.en]
+  locale = 'en-AU'
 
 [params]
   BookTheme = 'auto'
   BookSearch = true
   BookCollapsibleMenu = true
   BookToC = false
+  BookSection = '/'
   BookRepo = 'https://github.com/icept/short-street-cook-book'
