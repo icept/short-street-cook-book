@@ -17,7 +17,7 @@ The cookbook is built around what we grow at home. When generating recipes, lean
 - Mango — December to February, main flush January
 
 ### Herbs
-- Hardy, year-round: thyme, sage, rosemary, oregano
+- Hardy, year-round: thyme, sage, rosemary, oregano, mint (in a contained pot)
 - Summer (Nov–Mar): basil
 - Cooler months (they bolt in Perth summer heat): parsley, dill
 

@@ -65,6 +65,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [Rosemary](/produce/02-herbs/07-rosemary/)
 - [Sage](/produce/02-herbs/08-sage/)
 - [Thyme](/produce/02-herbs/09-thyme/)
+- [Mint](/produce/02-herbs/10-mint/)
 
 ### Other
 
