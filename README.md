@@ -22,6 +22,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 ### Soups
 
 - [Boxing Day Bisque](recipes/05-boxing-day-bisque.md)
+- [French Onion Soup](recipes/14-french-onion-soup.md)
 
 ### Drinks
 
