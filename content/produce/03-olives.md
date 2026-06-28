@@ -8,7 +8,8 @@ varieties: (cured table olives — variety varies by tree)
 We have an olive tree that produces more fruit than we know what to do with
 each autumn. Most years we cure a batch ourselves; the rest we watch the birds
 sort out. The first time we did it felt daunting, but it turns out brine-curing
-olives is slow rather than difficult.
+olives is slow rather than difficult. The full process is in
+[Home-Cured Olives](/recipes/preserves/15-cured-olives/).
 
 ## In season
 
@@ -39,14 +40,9 @@ olives are ready to eat roughly six to eight weeks after harvest.
 
 ## Notes
 
-**Brine-cure timeline:** after harvest, crack or score each olive to speed
-curing. Pack into jars and cover with a 10% brine (100 g non-iodised salt per
-litre of water). Change the brine every week for six to eight weeks, tasting as
-you go — they're done when the bitterness is gone and the flavour is balanced.
-
-**Flavouring the cure:** in the final week, add your flavourings — garlic,
-chilli, lemon zest, orange peel, bay, fennel — so they infuse before the
-olives are ready to eat.
+**Cure timing:** harvest in April–May; the cured olives are ready to eat five
+to eight weeks later depending on ripeness and the weather. See
+[Home-Cured Olives](/recipes/preserves/15-cured-olives/) for the full process.
 
 **Storing finished olives:** drain, pack into clean jars, and cover completely
 with olive oil. They keep in the fridge for several months. The oil takes on

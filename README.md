@@ -34,6 +34,11 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 - [Rich Toasted Macadamia Orgeat](content/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat.md)
 
+### Preserves
+
+- [Home-Cured Olives](content/recipes/preserves/15-cured-olives.md)
+- [Preserved Lemons](content/recipes/preserves/16-preserved-lemons.md)
+
 ## House Produce
 
 ### Fruit

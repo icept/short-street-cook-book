@@ -39,6 +39,7 @@ in a small zip-lock bag.
 **Freeze juice** in ice-cube trays (roughly 2 tbsp per cube) so a glut
 doesn't go to waste.
 
-**Preserved lemons:** salt-pack whole or quartered lemons tightly into a
-sterilised jar; ready in three to four weeks, keep for months in the fridge.
-Use the rind only — rinse it and scrape out the pulp before adding.
+**[Preserved lemons](/recipes/preserves/16-preserved-lemons/):** salt-pack
+whole lemons, scored to the base, into a sterilised jar; ready in four weeks,
+keep for months in the fridge. Use the rind only — rinse it and scrape out
+the pulp before adding.
