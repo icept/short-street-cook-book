@@ -21,8 +21,8 @@ bowl. Prawn shells work just as well as cray if that's what you've got.
 - 2 carrots, sliced 5 mm
 - 2 celery sticks, sliced 5 mm
 - 1 can diced tomatoes
-- 6 large sprigs thyme
-- 3 bay leaves
+- 6 large sprigs [thyme](/produce/02-herbs/09-thyme/)
+- 3 [bay leaves](/produce/02-herbs/02-bay/)
 - 3 large shallots
 - 375 ml dry vermouth or white wine
 - 180 ml cream

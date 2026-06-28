@@ -4,12 +4,12 @@ serves: 1
 time: 5 minutes
 ---
 
-The house macadamia orgeat does the job of both sugar and character here — it rounds out the whiskey with a quiet, buttery richness that a plain sugar cube never quite achieves. A drink that tastes like it has a reason to exist.
+The house [macadamia orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/) does the job of both sugar and character here — it rounds out the whiskey with a quiet, buttery richness that a plain sugar cube never quite achieves. A drink that tastes like it has a reason to exist.
 
 ## Ingredients
 
 - 60 ml bourbon or rye whiskey
-- 7.5 ml Rich Toasted Macadamia Orgeat
+- 7.5 ml [Rich Toasted Macadamia Orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/)
 - 2–3 dashes Angostura bitters
 - Orange peel, to garnish
 

@@ -38,9 +38,27 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ## House Produce
 
+### Fruit
+
+- [Lemon](/produce/01-fruit/01-lemon/)
+- [Cara Cara Orange](/produce/01-fruit/02-cara-cara-orange/)
+- [White Grapefruit](/produce/01-fruit/03-white-grapefruit/)
+- [Mango](/produce/01-fruit/04-mango/)
+
+### Herbs
+
+- [Basil](/produce/02-herbs/01-basil/)
+- [Bay](/produce/02-herbs/02-bay/)
+- [Coriander](/produce/02-herbs/03-coriander/)
+- [Dill](/produce/02-herbs/04-dill/)
+- [Oregano](/produce/02-herbs/05-oregano/)
+- [Parsley](/produce/02-herbs/06-parsley/)
+- [Rosemary](/produce/02-herbs/07-rosemary/)
+- [Sage](/produce/02-herbs/08-sage/)
+- [Thyme](/produce/02-herbs/09-thyme/)
+
+### Other
+
 - [Our Garden](/produce/00-garden/)
-- [Citrus](/produce/01-citrus/)
-- [Herbs](/produce/02-herbs/)
 - [Olives](/produce/03-olives/)
 - [Macadamia Nuts](/produce/04-macadamia-nuts/)
-- [Mango](/produce/05-mango/)

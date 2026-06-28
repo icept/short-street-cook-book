@@ -4,11 +4,11 @@ yield: approx. 2 cups
 time: 15 minutes active, plus 12–24 hours steeping
 ---
 
-A house orgeat made from the macadamia tree in the garden. Toasting the nuts first deepens the flavour considerably — it pushes the syrup past sweet and into something more complex and buttery. Worth making a full batch; it keeps for up to six months in the fridge and improves everything it touches.
+A house orgeat made from the [macadamia](/produce/04-macadamia-nuts/) tree in the garden. Toasting the nuts first deepens the flavour considerably — it pushes the syrup past sweet and into something more complex and buttery. Worth making a full batch; it keeps for up to six months in the fridge and improves everything it touches.
 
 ## Ingredients
 
-- 270 g raw macadamia nuts
+- 270 g raw [macadamia nuts](/produce/04-macadamia-nuts/)
 - 400 g Demerara, turbinado, or raw cane sugar
 - 250 ml water
 - 1 tsp high-quality vanilla extract

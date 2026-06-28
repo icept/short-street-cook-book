@@ -4,15 +4,16 @@ serves: 1
 time: 5 minutes
 ---
 
-The Cara Cara tree earns its keep all winter, and this is one of the best
-things to do with a single orange. The rosemary from the garden adds just
+The [Cara Cara](/produce/01-fruit/02-cara-cara-orange/) tree earns its keep
+all winter, and this is one of the best things to do with a single orange.
+The [rosemary](/produce/02-herbs/07-rosemary/) from the garden adds just
 enough resinous edge to make it feel botanical rather than sweet.
 
 ## Ingredients
 
-- Juice of 1 Cara Cara navel orange (about 80 ml)
+- Juice of 1 [Cara Cara navel orange](/produce/01-fruit/02-cara-cara-orange/) (about 80 ml)
 - 60 ml wild berry gin (we use Beyond Distilling)
-- 1 sprig rosemary
+- 1 sprig [rosemary](/produce/02-herbs/07-rosemary/)
 - Ice
 
 ## Method

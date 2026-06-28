@@ -9,9 +9,9 @@ Jerry Thomas's 1862 original used almond orgeat. The macadamia version is quiete
 ## Ingredients
 
 - 60 ml cognac or high-quality brandy
-- 15 ml Rich Toasted Macadamia Orgeat
+- 15 ml [Rich Toasted Macadamia Orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/)
 - 2–3 dashes Angostura bitters
-- Lemon peel, to garnish
+- [Lemon](/produce/01-fruit/01-lemon/) peel, to garnish
 
 ## Method
 

@@ -5,16 +5,14 @@ serves: 1
 time: 5 minutes
 ---
 
-A cognac sour built around our own macadamia orgeat and a Cara Cara orange off
-the tree. The Cara Cara is sweeter and rounder than a navel, with a faint berry
-note, so the lime does the sharpening — a lemon version comes out flat.
+A cognac sour built around our own [macadamia orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/) and a [Cara Cara orange](/produce/01-fruit/02-cara-cara-orange/) off the tree. The Cara Cara is sweeter and rounder than a navel, with a faint berry note, so the lime does the sharpening — a lemon version comes out flat.
 
 ## Ingredients
 
 - 60 ml cognac (VS or VSOP is plenty)
-- 40 ml fresh Cara Cara orange juice
+- 40 ml fresh [Cara Cara orange](/produce/01-fruit/02-cara-cara-orange/) juice
 - 25 ml fresh lime juice
-- 20 ml macadamia orgeat (home-made)
+- 20 ml [macadamia orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/) (home-made)
 - 1 dash Angostura bitters
 - Ice
 
@@ -42,12 +40,12 @@ spirit, sweet, and sour into balance.
 
 ## Substitutions
 
-**Cara Cara** — A regular navel orange works but loses the berry note; cut the
+**[Cara Cara](/produce/01-fruit/02-cara-cara-orange/)** — A regular navel orange works but loses the berry note; cut the
 lime to 20 ml to compensate for the higher acidity. Blood orange is excellent
 when they're around.
 
 **Cognac** — A decent brandy stands in fine. Aged rum takes it in a more
 tropical, tiki direction.
 
-**Macadamia orgeat** — Almond orgeat is the classic and works straight up,
+**[Macadamia orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/)** — Almond orgeat is the classic and works straight up,
 just a touch less buttery.

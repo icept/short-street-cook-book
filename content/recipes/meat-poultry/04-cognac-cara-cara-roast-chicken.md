@@ -4,7 +4,7 @@ serves: 4
 time: 1 hour 30 minutes (plus 8–12 hours to marinate)
 ---
 
-This one takes planning but rewards you well. The Cara Cara oranges caramelise
+This one takes planning but rewards you well. The [Cara Cara](/produce/01-fruit/02-cara-cara-orange/) oranges caramelise
 around the bird as it roasts, and the cognac marinade reduces to a dark, glossy
 syrup that you pour over the carved meat at the table. Use the conventional
 oven setting — fan-forced will scorch the sugar before the chicken is done.
@@ -13,16 +13,16 @@ oven setting — fan-forced will scorch the sugar before the chicken is done.
 
 ### The bird and aromatics
 - 1 whole chicken, about 2 kg
-- 2 Cara Cara navel oranges — peel one completely, leave the other unpeeled;
+- 2 [Cara Cara navel oranges](/produce/01-fruit/02-cara-cara-orange/) — peel one completely, leave the other unpeeled;
   slice both into 5 mm rounds
 - 2 large onions, cut into thick wedges (keep the root on so they hold together)
-- Large handful fresh thyme sprigs
+- Large handful fresh [thyme](/produce/02-herbs/09-thyme/) sprigs
 
 ### The marinade
 - 100 ml cognac
 - 4 tbsp olive oil
 - 3 tbsp fresh orange juice
-- 3 tbsp fresh lemon juice
+- 3 tbsp fresh [lemon](/produce/01-fruit/01-lemon/) juice
 - 3 tbsp light brown sugar
 - 1½ tbsp Dijon mustard
 - 1½ tsp fennel seeds, lightly toasted and crushed

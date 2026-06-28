@@ -19,8 +19,8 @@ that part.
 - 1.5 litres beef stock
 - 185 ml dry white wine, dry vermouth, port, or cognac (for the deglaze)
 - 125 ml port or cognac (to finish)
-- 4–5 sprigs thyme
-- 1–2 bay leaves
+- 4–5 sprigs [thyme](/produce/02-herbs/09-thyme/)
+- 1–2 [bay leaves](/produce/02-herbs/02-bay/)
 - ½ tsp nutmeg
 - Salt and pepper
 
