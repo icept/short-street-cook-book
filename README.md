@@ -30,6 +30,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [The Macadamia Espresso Martini](recipes/07-macadamia-espresso-martini.md)
 - [The Macadamia Mai Tai](recipes/08-macadamia-mai-tai.md)
 - [The Japanese Cocktail](recipes/09-japanese-cocktail.md)
+- [Cara Cara Mac Sour](recipes/13-cara-cara-mac-sour.md)
 
 ### Syrups & Cordials
 
