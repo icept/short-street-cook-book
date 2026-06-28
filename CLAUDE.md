@@ -95,6 +95,20 @@ Perth / WA seasonality.
 Preserving, storage, variety notes.
 ```
 
+## Keeping the index up to date
+
+`README.md` is the cookbook's contents page. Whenever you add, rename, or
+remove a file in `recipes/` or `produce/`, update README.md in the same
+commit:
+
+- Add a link under the correct category heading in **Recipes**, using the
+  recipe's `title` front matter field as the link text.
+- Add a link under **House Produce**, using the `name` front matter field.
+- If a new recipe doesn't fit an existing category, add a new `###` heading
+  for it.
+
+Never let the index drift out of sync with the files on disk.
+
 ## Style guide
 
 - British spelling: *flavour*, *colour*, *courgette*, *aubergine*, *coriander*
