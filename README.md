@@ -27,9 +27,8 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 ### Drinks
 
 - [Winter Cara Cara Botanical](recipes/03-winter-cara-cara-botanical.md)
-- [The Macadamia Old Fashioned](recipes/06-macadamia-old-fashioned.md)
-- [The Macadamia Espresso Martini](recipes/07-macadamia-espresso-martini.md)
-- [The Macadamia Mai Tai](recipes/08-macadamia-mai-tai.md)
+- [The Mac Old Fashioned](recipes/06-macadamia-old-fashioned.md)
+- [The Mac Espresso Martini](recipes/07-macadamia-espresso-martini.md)
 - [The Japanese Cocktail](recipes/09-japanese-cocktail.md)
 - [Cara Cara Mac Sour](recipes/13-cara-cara-mac-sour.md)
 

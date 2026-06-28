@@ -1,5 +1,5 @@
 ---
-title: The Macadamia Old Fashioned
+title: The Mac Old Fashioned
 serves: 1
 time: 5 minutes
 ---

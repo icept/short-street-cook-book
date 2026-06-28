@@ -1,5 +1,5 @@
 ---
-title: The Macadamia Espresso Martini
+title: The Mac Espresso Martini
 serves: 1
 time: 5 minutes
 ---
