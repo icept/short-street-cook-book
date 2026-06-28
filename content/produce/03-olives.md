@@ -13,8 +13,7 @@ olives is slow rather than difficult. The full process is in
 
 ## In season
 
-WA olives are harvested in autumn — roughly April through May, sometimes into
-early June depending on the season and the tree. Pick them when they've turned
+WA olives are harvested in autumn — ours come in late May into June. Pick them when they've turned
 from green to the mottled purple stage if you want both firmness and flavour;
 fully black olives are riper but bruise more easily during curing. The cured
 olives are ready to eat roughly six to eight weeks after harvest.
@@ -44,7 +43,7 @@ olives are ready to eat roughly six to eight weeks after harvest.
 
 ## Notes
 
-**Cure timing:** harvest in April–May; the cured olives are ready to eat five
+**Cure timing:** harvest late May–June; the cured olives are ready to eat five
 to eight weeks later depending on ripeness and the weather. See
 [Home-Cured Olives](/recipes/preserves/15-cured-olives/) for the full process.
 

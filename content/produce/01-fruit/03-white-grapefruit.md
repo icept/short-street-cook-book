@@ -33,6 +33,11 @@ and suits cooking more than eating fresh.
 - White grapefruit less common at markets; Ruby Red is the more usual
   commercial variety — the flavour is different (sweeter, pinker)
 
+## Used in
+
+- [White Grapefruit Paloma](/recipes/drinks/17-white-grapefruit-paloma/) — the juice
+- [White Grapefruit Curd](/recipes/preserves/18-white-grapefruit-curd/) — the main ingredient
+
 ## Notes
 
 **Segmenting:** cut away the pith and membrane for salads — use a small,

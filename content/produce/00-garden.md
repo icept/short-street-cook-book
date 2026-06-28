@@ -22,7 +22,7 @@ The cookbook is built around what we grow at home. When generating recipes, lean
 - Cooler months (they bolt in Perth summer heat): parsley, dill
 
 ### Olives
-- Home-grown and home-cured in brine; harvested April–May, cured over the following weeks
+- Home-grown and home-cured in brine; harvested late May–June, cured over the following weeks
 
 ### Nuts
 - Macadamia — nuts fall March–August, main flush in autumn; husk and dry before cracking

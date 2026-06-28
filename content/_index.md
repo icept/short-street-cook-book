@@ -31,6 +31,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [The Mac Espresso Martini](/recipes/drinks/07-macadamia-espresso-martini/)
 - [The Japanese Cocktail](/recipes/drinks/09-japanese-cocktail/)
 - [Cara Cara Mac Sour](/recipes/drinks/13-cara-cara-mac-sour/)
+- [White Grapefruit Paloma](/recipes/drinks/17-white-grapefruit-paloma/)
 
 ### Syrups & Cordials
 
@@ -40,6 +41,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 - [Home-Cured Olives](/recipes/preserves/15-cured-olives/)
 - [Preserved Lemons](/recipes/preserves/16-preserved-lemons/)
+- [White Grapefruit Curd](/recipes/preserves/18-white-grapefruit-curd/)
 
 ## House Produce
 

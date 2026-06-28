@@ -4,7 +4,7 @@ yield: 1 kg cured olives (scales with your harvest)
 time: 20 minutes active, plus 5–8 weeks curing
 ---
 
-The [olive tree](/produce/03-olives/) drops its fruit in April and May, and
+The [olive tree](/produce/03-olives/) drops its fruit in late May and June, and
 this is what we do with it. The cure is slow rather than difficult — most of
 the time is waiting, with five minutes of work each day to change the water.
 The end result is genuinely better than anything from a jar: firmer, cleaner,
