@@ -4,6 +4,10 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ## Recipes
 
+### Seafood
+
+- [Tuna or Salmon Tartare with Avocado](recipes/11-tuna-salmon-tartare.md)
+
 ### Sauces & Condiments
 
 - [Malaysian Sambal](recipes/10-malaysian-sambal.md)
