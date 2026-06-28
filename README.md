@@ -42,6 +42,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [Cara Cara Orange](content/produce/01-fruit/02-cara-cara-orange.md)
 - [White Grapefruit](content/produce/01-fruit/03-white-grapefruit.md)
 - [Mango](content/produce/01-fruit/04-mango.md)
+- [Purple Figs](content/produce/01-fruit/05-figs.md)
 
 ### Herbs
 
