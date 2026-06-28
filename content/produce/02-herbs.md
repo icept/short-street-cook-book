@@ -1,4 +1,5 @@
 ---
+title: Herbs
 name: Herbs
 type: Home-grown
 varieties: rosemary, thyme, oregano, bay, sage, basil, parsley, coriander

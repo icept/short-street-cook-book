@@ -1,0 +1,4 @@
+---
+title: Soups
+bookCollapseSection: true
+---

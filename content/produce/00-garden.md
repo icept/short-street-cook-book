@@ -1,4 +1,5 @@
 ---
+title: Our Garden
 name: Our Garden
 type: reference
 location: Joondanna, City of Stirling, Perth WA

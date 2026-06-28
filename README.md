@@ -6,35 +6,33 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ### Seafood
 
-- [Ginger Sesame Tuna Tartare](content/recipes/11-tuna-salmon-tartare.md)
+- [Ginger Sesame Tuna Tartare](content/recipes/seafood/11-tuna-salmon-tartare.md)
 
 ### Sauces & Condiments
 
-- [Malaysian Sambal](content/recipes/10-malaysian-sambal.md)
-
-### Pasta & Grains
+- [Malaysian Sambal](content/recipes/sauces-condiments/10-malaysian-sambal.md)
 
 ### Meat & Poultry
 
-- [Cognac & Cara Cara Roast Chicken](content/recipes/04-cognac-cara-cara-roast-chicken.md)
-- [Beef Short Rib Massaman](content/recipes/12-beef-massaman-curry.md)
+- [Cognac & Cara Cara Roast Chicken](content/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken.md)
+- [Beef Short Rib Massaman](content/recipes/meat-poultry/12-beef-massaman-curry.md)
 
 ### Soups
 
-- [Boxing Day Bisque](content/recipes/05-boxing-day-bisque.md)
-- [French Onion Soup](content/recipes/14-french-onion-soup.md)
+- [Boxing Day Bisque](content/recipes/soups/05-boxing-day-bisque.md)
+- [French Onion Soup](content/recipes/soups/14-french-onion-soup.md)
 
 ### Drinks
 
-- [Winter Cara Cara Botanical](content/recipes/03-winter-cara-cara-botanical.md)
-- [The Mac Old Fashioned](content/recipes/06-macadamia-old-fashioned.md)
-- [The Mac Espresso Martini](content/recipes/07-macadamia-espresso-martini.md)
-- [The Japanese Cocktail](content/recipes/09-japanese-cocktail.md)
-- [Cara Cara Mac Sour](content/recipes/13-cara-cara-mac-sour.md)
+- [Winter Cara Cara Botanical](content/recipes/drinks/03-winter-cara-cara-botanical.md)
+- [The Mac Old Fashioned](content/recipes/drinks/06-macadamia-old-fashioned.md)
+- [The Mac Espresso Martini](content/recipes/drinks/07-macadamia-espresso-martini.md)
+- [The Japanese Cocktail](content/recipes/drinks/09-japanese-cocktail.md)
+- [Cara Cara Mac Sour](content/recipes/drinks/13-cara-cara-mac-sour.md)
 
 ### Syrups & Cordials
 
-- [Rich Toasted Macadamia Orgeat](content/recipes/05-rich-toasted-macadamia-orgeat.md)
+- [Rich Toasted Macadamia Orgeat](content/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat.md)
 
 ## House Produce
 

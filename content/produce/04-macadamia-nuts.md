@@ -1,4 +1,5 @@
 ---
+title: Macadamia Nuts
 name: Macadamia Nuts
 type: Home-grown
 varieties: Macadamia integrifolia

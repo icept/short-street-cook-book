@@ -1,4 +1,5 @@
 ---
+title: Citrus
 name: Citrus
 type: Home-grown
 varieties: lemon, Cara Cara orange, white grapefruit

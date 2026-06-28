@@ -1,0 +1,4 @@
+---
+title: Seafood
+bookCollapseSection: true
+---

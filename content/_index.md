@@ -8,33 +8,33 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 
 ### Seafood
 
-- [Ginger Sesame Tuna Tartare](/recipes/11-tuna-salmon-tartare/)
+- [Ginger Sesame Tuna Tartare](/recipes/seafood/11-tuna-salmon-tartare/)
 
 ### Sauces & Condiments
 
-- [Malaysian Sambal](/recipes/10-malaysian-sambal/)
+- [Malaysian Sambal](/recipes/sauces-condiments/10-malaysian-sambal/)
 
 ### Meat & Poultry
 
-- [Cognac & Cara Cara Roast Chicken](/recipes/04-cognac-cara-cara-roast-chicken/)
-- [Beef Short Rib Massaman](/recipes/12-beef-massaman-curry/)
+- [Cognac & Cara Cara Roast Chicken](/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken/)
+- [Beef Short Rib Massaman](/recipes/meat-poultry/12-beef-massaman-curry/)
 
 ### Soups
 
-- [Boxing Day Bisque](/recipes/05-boxing-day-bisque/)
-- [French Onion Soup](/recipes/14-french-onion-soup/)
+- [Boxing Day Bisque](/recipes/soups/05-boxing-day-bisque/)
+- [French Onion Soup](/recipes/soups/14-french-onion-soup/)
 
 ### Drinks
 
-- [Winter Cara Cara Botanical](/recipes/03-winter-cara-cara-botanical/)
-- [The Mac Old Fashioned](/recipes/06-macadamia-old-fashioned/)
-- [The Mac Espresso Martini](/recipes/07-macadamia-espresso-martini/)
-- [The Japanese Cocktail](/recipes/09-japanese-cocktail/)
-- [Cara Cara Mac Sour](/recipes/13-cara-cara-mac-sour/)
+- [Winter Cara Cara Botanical](/recipes/drinks/03-winter-cara-cara-botanical/)
+- [The Mac Old Fashioned](/recipes/drinks/06-macadamia-old-fashioned/)
+- [The Mac Espresso Martini](/recipes/drinks/07-macadamia-espresso-martini/)
+- [The Japanese Cocktail](/recipes/drinks/09-japanese-cocktail/)
+- [Cara Cara Mac Sour](/recipes/drinks/13-cara-cara-mac-sour/)
 
 ### Syrups & Cordials
 
-- [Rich Toasted Macadamia Orgeat](/recipes/05-rich-toasted-macadamia-orgeat/)
+- [Rich Toasted Macadamia Orgeat](/recipes/syrups-cordials/05-rich-toasted-macadamia-orgeat/)
 
 ## House Produce
 

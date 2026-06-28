@@ -1,4 +1,5 @@
 ---
+title: Olives
 name: Olives
 type: Home-grown
 varieties: (cured table olives — variety varies by tree)
