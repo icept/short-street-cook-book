@@ -10,4 +10,82 @@
   .recipe-meta span + span::before {
     content: "· ";
   }
+
+  /* Interactive recipe checklist + step timers */
+  .markdown ul.checklist {
+    list-style: none;
+    padding-left: 0.25rem;
+  }
+  .recipe-check {
+    display: inline-block;
+    flex: none;
+    width: 1.05em;
+    height: 1.05em;
+    margin-right: 0.5em;
+    border: 2px solid var(--color-hint, #888);
+    border-radius: 4px;
+    vertical-align: -0.18em;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.12s ease, border-color 0.12s ease;
+  }
+  .recipe-check.is-checked {
+    background: var(--color-link, #2a7d4f);
+    border-color: var(--color-link, #2a7d4f);
+  }
+  .recipe-check.is-checked::after {
+    content: "✓";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -54%);
+    color: #fff;
+    font-size: 0.8em;
+    line-height: 1;
+  }
+  .markdown li.is-checked {
+    color: var(--color-hint, #888);
+    text-decoration: line-through;
+    text-decoration-color: var(--color-hint, #888);
+  }
+  .markdown li.is-checked .recipe-check,
+  .markdown li.is-checked .recipe-timer {
+    text-decoration: none;
+  }
+  .recipe-timer {
+    display: inline-block;
+    margin-left: 0.5em;
+    padding: 0.05em 0.55em;
+    font-size: 0.8em;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.4;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border: 1px solid var(--color-link, #2a7d4f);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--color-link, #2a7d4f);
+    cursor: pointer;
+  }
+  .recipe-timer.is-running {
+    background: var(--color-link, #2a7d4f);
+    color: #fff;
+  }
+  .recipe-timer.is-done {
+    border-color: #c0392b;
+    background: #c0392b;
+    color: #fff;
+  }
+  .recipe-reset {
+    margin-left: 0.75em;
+    padding: 0.1em 0.6em;
+    font-size: 0.6em;
+    font-weight: normal;
+    vertical-align: middle;
+    border: 1px solid var(--color-hint, #888);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--color-hint, #888);
+    cursor: pointer;
+  }
 </style>

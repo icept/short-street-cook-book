@@ -9,4 +9,173 @@
   {{- end }}
   {{- .Content }}
 </article>
+
+<script>
+(function () {
+  var article = document.querySelector('article.markdown');
+  if (!article) return;
+
+  var pageKey = 'ssc-checks:' + location.pathname;
+  var EXPIRY_MS = 24 * 60 * 60 * 1000; // checklist state clears itself after a day
+
+  // --- persisted checkbox state (persist + auto-expire) ---
+  var state = { ts: Date.now(), checked: {} };
+  try {
+    var raw = localStorage.getItem(pageKey);
+    if (raw) {
+      var parsed = JSON.parse(raw);
+      if (parsed && parsed.checked && (Date.now() - parsed.ts) < EXPIRY_MS) {
+        state = parsed;
+      } else {
+        localStorage.removeItem(pageKey);
+      }
+    }
+  } catch (e) {}
+
+  function save() {
+    state.ts = Date.now();
+    try { localStorage.setItem(pageKey, JSON.stringify(state)); } catch (e) {}
+  }
+
+  // locate a section heading by id, falling back to its text
+  function findH2(id, text) {
+    var h = document.getElementById(id);
+    if (h && h.tagName === 'H2') return h;
+    var hs = article.querySelectorAll('h2');
+    for (var i = 0; i < hs.length; i++) {
+      if (hs[i].textContent.trim().toLowerCase() === text) return hs[i];
+    }
+    return null;
+  }
+
+  // collect <li> in every list between a heading and the next <h2>
+  function sectionItems(heading) {
+    var items = [];
+    if (!heading) return items;
+    var el = heading.nextElementSibling;
+    while (el && el.tagName !== 'H2') {
+      if (el.tagName === 'UL' || el.tagName === 'OL') {
+        if (el.tagName === 'UL') el.classList.add('checklist');
+        var lis = el.querySelectorAll('li');
+        for (var i = 0; i < lis.length; i++) items.push(lis[i]);
+      }
+      el = el.nextElementSibling;
+    }
+    return items;
+  }
+
+  // --- checkboxes ---
+  var idx = 0;
+  var boxes = [];
+  function addCheckbox(li) {
+    var key = 'c' + idx; idx++;
+    var box = document.createElement('span');
+    box.className = 'recipe-check';
+    box.setAttribute('role', 'checkbox');
+    function reflect(on) {
+      li.classList.toggle('is-checked', on);
+      box.classList.toggle('is-checked', on);
+      box.setAttribute('aria-checked', on ? 'true' : 'false');
+    }
+    reflect(!!state.checked[key]);
+    box.addEventListener('click', function () {
+      var on = !box.classList.contains('is-checked');
+      reflect(on);
+      if (on) state.checked[key] = 1; else delete state.checked[key];
+      save();
+    });
+    boxes.push(function () { reflect(false); });
+    li.insertBefore(box, li.firstChild);
+  }
+
+  // --- step timers (foreground countdown only) ---
+  var TIME_RE = /(\d+)\s*(?:[–-]\s*\d+\s*)?(hours?|hrs?|minutes?|mins?|seconds?|secs?)\b/i;
+
+  function fmt(s) {
+    var m = Math.floor(s / 60), sec = s % 60;
+    return m + ':' + (sec < 10 ? '0' : '') + sec;
+  }
+
+  function beep() {
+    try {
+      var Ctx = window.AudioContext || window.webkitAudioContext;
+      var ctx = new Ctx();
+      var o = ctx.createOscillator(), g = ctx.createGain();
+      o.connect(g); g.connect(ctx.destination);
+      o.type = 'sine'; o.frequency.value = 880;
+      var t = ctx.currentTime;
+      g.gain.setValueAtTime(0.0001, t);
+      for (var i = 0; i < 3; i++) {
+        g.gain.setValueAtTime(0.2, t + i * 0.3);
+        g.gain.setValueAtTime(0.0001, t + i * 0.3 + 0.15);
+      }
+      o.start(t); o.stop(t + 0.9);
+    } catch (e) {}
+  }
+
+  function addTimer(li) {
+    var m = TIME_RE.exec(li.textContent);
+    if (!m) return;
+    var unit = m[2].toLowerCase()[0]; // h / m / s
+    var mult = unit === 'h' ? 3600 : unit === 'm' ? 60 : 1;
+    var total = parseInt(m[1], 10) * mult;
+    if (!total) return;
+
+    var btn = document.createElement('button');
+    btn.className = 'recipe-timer';
+    btn.type = 'button';
+    var remaining = total, iv = null;
+
+    function render() { btn.textContent = '⏱ ' + fmt(remaining); }
+    function stop() { if (iv) { clearInterval(iv); iv = null; } }
+    function resetTimer() {
+      stop(); remaining = total;
+      btn.classList.remove('is-running', 'is-done');
+      render();
+    }
+    render();
+
+    btn.addEventListener('click', function () {
+      if (btn.classList.contains('is-done')) { resetTimer(); return; }
+      if (iv) { stop(); btn.classList.remove('is-running'); return; } // pause
+      btn.classList.add('is-running');
+      iv = setInterval(function () {
+        remaining--;
+        render();
+        if (remaining <= 0) {
+          stop();
+          btn.classList.remove('is-running');
+          btn.classList.add('is-done');
+          btn.textContent = '✓ Done';
+          beep();
+        }
+      }, 1000);
+    });
+    li.appendChild(btn);
+  }
+
+  var ingredientsH = findH2('ingredients', 'ingredients');
+  var methodH = findH2('method', 'method');
+  var ingredients = sectionItems(ingredientsH);
+  var method = sectionItems(methodH);
+
+  ingredients.forEach(addCheckbox);
+  method.forEach(function (li) { addCheckbox(li); addTimer(li); });
+
+  // --- reset control on the Ingredients heading ---
+  if (ingredientsH && (ingredients.length || method.length)) {
+    var reset = document.createElement('button');
+    reset.className = 'recipe-reset';
+    reset.type = 'button';
+    reset.textContent = 'Reset';
+    reset.title = 'Clear all ticks';
+    reset.addEventListener('click', function () {
+      state.checked = {};
+      try { localStorage.removeItem(pageKey); } catch (e) {}
+      boxes.forEach(function (f) { f(); });
+    });
+    ingredientsH.appendChild(reset);
+  }
+})();
+</script>
 {{- end }}
