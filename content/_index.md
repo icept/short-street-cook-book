@@ -9,6 +9,7 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 ### Seafood
 
 - [Ginger Sesame Tuna Tartare](/recipes/seafood/11-tuna-salmon-tartare/)
+- [Cara Cara Prawn Udon with Nam Jim](/recipes/seafood/20-cara-cara-prawn-udon/)
 
 ### Sauces & Condiments
 

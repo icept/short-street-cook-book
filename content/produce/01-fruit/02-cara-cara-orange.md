@@ -38,6 +38,7 @@ gives juice freely.
 - [Cognac & Cara Cara Roast Chicken](/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken/) — sliced alongside the bird
 - [Cara Cara Mac Sour](/recipes/drinks/13-cara-cara-mac-sour/) — the juice
 - [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — optional peel to finish
+- [Cara Cara Prawn Udon with Nam Jim](/recipes/seafood/20-cara-cara-prawn-udon/) — the juice reduced and used as the base of the nam jim dressing
 
 ## Notes
 

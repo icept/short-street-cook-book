@@ -33,6 +33,10 @@ long productive season; a late-summer planting is short-lived.
   bunches with the roots still attached for maximum value
 - **Kakulas Bros** (Northbridge) stocks coriander seed in bulk
 
+## Used in
+
+- [Cara Cara Prawn Udon with Nam Jim](/recipes/seafood/20-cara-cara-prawn-udon/) — leaves and stems in the nam jim and as a garnish
+
 ## Notes
 
 **Use the whole plant:** rinse and roughly chop the roots and lower stems
