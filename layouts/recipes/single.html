@@ -78,7 +78,11 @@
       box.setAttribute('aria-checked', on ? 'true' : 'false');
     }
     reflect(!!state.checked[key]);
-    box.addEventListener('click', function () {
+    // tap anywhere on the item (text or box) to toggle, but leave timer
+    // buttons and links to do their own thing
+    li.classList.add('checkitem');
+    li.addEventListener('click', function (e) {
+      if (e.target.closest('button, a')) return;
       var on = !box.classList.contains('is-checked');
       reflect(on);
       if (on) state.checked[key] = 1; else delete state.checked[key];
