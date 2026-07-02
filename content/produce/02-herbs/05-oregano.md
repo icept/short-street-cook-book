@@ -33,6 +33,10 @@ it from getting woody.
   is worth buying good stock of; it keeps for a year and is better value
   than supermarket packets
 
+## Used in
+
+- [Deep Dish Pizza with Home-Cured Olives](/recipes/breads-pizza/21-deep-dish-olive-pizza/) — chopped fresh into the tomato sauce
+
 ## Notes
 
 **Drying:** tie small bundles and hang in a dry spot, or strip the leaves

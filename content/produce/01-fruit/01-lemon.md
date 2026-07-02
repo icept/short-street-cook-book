@@ -37,6 +37,7 @@ in a good year there are more than you can use.
 - [Cognac & Cara Cara Roast Chicken](/recipes/meat-poultry/04-cognac-cara-cara-roast-chicken/) — lemon juice in the marinade
 - [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — optional lemon peel to finish
 - [Preserved Lemons](/recipes/preserves/16-preserved-lemons/) — the main ingredient
+- [Deep Dish Pizza with Home-Cured Olives](/recipes/breads-pizza/21-deep-dish-olive-pizza/) — zest to finish, bridging the olives and tomato
 
 ## Notes
 

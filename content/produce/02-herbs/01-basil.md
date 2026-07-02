@@ -33,6 +33,10 @@ daylight shortens in late summer; harvest generously through the peak.
 - Potted plants at most hardware stores and nurseries in spring — easier
   than growing from seed
 
+## Used in
+
+- [Deep Dish Pizza with Home-Cured Olives](/recipes/breads-pizza/21-deep-dish-olive-pizza/) — chopped into the tomato sauce, with or instead of oregano
+
 ## Notes
 
 **Don't refrigerate fresh basil** — cold blackens the leaves. Keep a bunch

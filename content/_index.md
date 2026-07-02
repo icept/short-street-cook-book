@@ -25,6 +25,10 @@ A household recipe collection from the Short Street kitchen, Perth, WA.
 - [Boxing Day Bisque](/recipes/soups/05-boxing-day-bisque/)
 - [French Onion Soup](/recipes/soups/14-french-onion-soup/)
 
+### Breads & Pizza
+
+- [Deep Dish Pizza with Home-Cured Olives](/recipes/breads-pizza/21-deep-dish-olive-pizza/)
+
 ### Drinks
 
 - [Winter Cara Cara Botanical](/recipes/drinks/03-winter-cara-cara-botanical/)

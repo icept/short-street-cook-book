@@ -40,6 +40,7 @@ olives are ready to eat roughly six to eight weeks after harvest.
 ## Used in
 
 - [Home-Cured Olives](/recipes/preserves/15-cured-olives/) — the full cure process
+- [Deep Dish Pizza with Home-Cured Olives](/recipes/breads-pizza/21-deep-dish-olive-pizza/) — halved through the cheese layer; best a week or two into the brine
 
 ## Notes
 
