@@ -23,7 +23,7 @@ A proper pan pizza built around the backyard olive cure. Beef tallow in the tin 
 
 ### For the topping
 - 200–250 g shredded pizza cheese
-- 1 handful [home-cured olives](/recipes/preserves/15-cured-olives/), pitted and halved — taste one first; rinse briefly if they're saltier than you'd like
+- 80 g whole [home-cured olives](/recipes/preserves/15-cured-olives/) (15–18 olives; about 65 g once pitted), pitted and halved — taste one first; rinse briefly if they're saltier than you'd like
 - Zest of ½ [lemon](/produce/01-fruit/01-lemon/), to finish
 - Chilli flakes, to finish (optional)
 
